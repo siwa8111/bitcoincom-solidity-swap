@@ -210,3 +210,4 @@ const contractAddress = ethers.utils.getCreate2Address(
     initCodeHash,
 );
 ```
+go
